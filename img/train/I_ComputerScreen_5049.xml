@@ -1,0 +1,1 @@
+<annotations><filename>I_ComputerScreen_5049.jpg</filename><folder>images</folder><size><width>640</width><height>480</height><depth>3</depth></size><object><name>hand</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>119.0</xmin><ymin>196.0</ymin><xmax>426.0</xmax><ymax>420.0</ymax></bndbox></object></annotations>
