@@ -1,0 +1,1 @@
+<annotations><filename>frame_0543 (2).jpg</filename><folder>images</folder><size><width>1280</width><height>720</height><depth>3</depth></size><object><name>hand</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>643.0</xmin><ymin>197.0</ymin><xmax>746.0</xmax><ymax>485.0</ymax></bndbox></object></annotations>

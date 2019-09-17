@@ -1,0 +1,1 @@
+<annotations><filename>frame_2403.jpg</filename><folder>images</folder><size><width>1280</width><height>720</height><depth>3</depth></size><object><name>hand</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>673.0</xmin><ymin>457.0</ymin><xmax>890.0</xmax><ymax>621.0</ymax></bndbox></object></annotations>
