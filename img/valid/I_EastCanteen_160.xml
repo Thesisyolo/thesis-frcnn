@@ -1,0 +1,1 @@
+<annotations><filename>I_EastCanteen_160.jpg</filename><folder>images</folder><size><width>640</width><height>480</height><depth>3</depth></size><object><name>hand</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>367.0</xmin><ymin>231.0</ymin><xmax>552.0</xmax><ymax>451.0</ymax></bndbox></object></annotations>
