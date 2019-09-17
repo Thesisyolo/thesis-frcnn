@@ -1,0 +1,1 @@
+<annotations><filename>I_YifuBuilding1stFloor_3035.jpg</filename><folder>images</folder><size><width>640</width><height>480</height><depth>3</depth></size><object><name>hand</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>336.0</xmin><ymin>103.0</ymin><xmax>487.0</xmax><ymax>331.0</ymax></bndbox></object></annotations>
