@@ -1,0 +1,1 @@
+<annotations><filename>Movie_forrest_2.jpg</filename><folder>images</folder><size><width>720</width><height>390</height><depth>3</depth></size><object><name>hand</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>204.12864</xmin><ymin>123.349005</ymin><xmax>234.936</xmax><ymax>181.546755</ymax></bndbox></object></annotations>
